@@ -36,7 +36,7 @@ function find_workflow {
         echo "Workflow not found"
         exit 1
       else
-        sleep 2
+        sleep 4
       fi
     else
       break
